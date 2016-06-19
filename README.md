@@ -1,5 +1,6 @@
 # OrderArabicName
 ترتيب الاسماء العربي بحسب الترتيب الابجدى
+order arabic name generator that helpe you to order collection of names
 
 #### you can test algorithm with add your string inside TreeSet as shown below
 
