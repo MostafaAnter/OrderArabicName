@@ -5,7 +5,7 @@ import java.util.TreeSet;
 public class Main {
 
     public static void main(String[] args) {
-	// test code by insert some names here
+        // test code by insert some names here
 
         TreeSet<Name> mNames = new TreeSet<>();
 
@@ -17,13 +17,10 @@ public class Main {
         mNames.add(Util.createNameObject("باسم"));
 
 
-
         for (Name name :
-             mNames) {
+                mNames) {
             System.out.println(name.getName());
         }
-
-
 
 
     }
