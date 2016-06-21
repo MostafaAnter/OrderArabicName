@@ -13,7 +13,6 @@ public class Main {
         mNames.add(Util.createNameObject("مصطفى"));
         mNames.add(Util.createNameObject("هانى"));
         mNames.add(Util.createNameObject("احمد"));
-
         mNames.add(Util.createNameObject("باسم"));
 
 
